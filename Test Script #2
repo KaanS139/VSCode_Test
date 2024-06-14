@@ -1,4 +1,4 @@
 print("hello world")
 a = 2
-b = a*a
+b = a*a*a
 print(b)
